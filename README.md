@@ -1,1 +1,2 @@
-# Ant_Colony
+## Ant_Colony
+This simulations purpose was to see how we can use ants pheromone behaviour to search for the best possible path when moving from high interest places to the nest. The expected behaviour would be that in case of putting food in multiple places, the ants would leave a pheromone trails which in time will strenghten certain routes. In the end we should get the most efficient travle routes for that colony from nest to food.
